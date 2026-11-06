@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Peminjaman Ruangan Learning Center",
+  "description": "Sistem manajemen peminjaman ruangan Gedung Learning Center dengan validasi bentrok jadwal, visual timeline ketersediaan, ekspor data, dan file mandiri app.py Streamlit & SQLite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
